@@ -1,4 +1,4 @@
-package br.com.matheuscunha;
+package br.com.registercontact;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
